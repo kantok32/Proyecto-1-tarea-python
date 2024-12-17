@@ -19,6 +19,8 @@ Aquí se muestra una captura de la aplicación en funcionamiento.
 
 ![SonarQube Screenshot](https://github.com/kantok32/Proyecto-1-tarea-python/blob/master/scanner%20sonarqude/agregar%20tarea.png)
 
+![SonarQube Screenshot](https://github.com/kantok32/Proyecto-1-tarea-python/blob/master/scanner%20sonarqude/seleccion%20de%20tarea%20y%20cambio.png)
+
 ## 🎯 **Funcionalidades**
 - **➕ Agregar tareas**: Crear nuevas tareas con título y descripción.
 - **✔️ Marcar tareas como completadas**: Cambiar el estado de la tarea a "Completada".
