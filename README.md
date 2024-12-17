@@ -14,6 +14,10 @@ Aquí se muestra una captura de la aplicación en funcionamiento.
 
 ![SonarQube Screenshot](https://github.com/kantok32/Proyecto-1-tarea-python/blob/master/scanner%20sonarqude/Captura%20de%20pantalla%202024-12-16%20191611.png)
 
+## 📊 **Interfaz grafica**
+![SonarQube Screenshot](https://github.com/kantok32/Proyecto-1-tarea-python/blob/master/scanner%20sonarqude/interfaz%20completa.png)
+
+![SonarQube Screenshot](https://github.com/kantok32/Proyecto-1-tarea-python/blob/master/scanner%20sonarqude/agregar%20tarea.png)
 
 ## 🎯 **Funcionalidades**
 - **➕ Agregar tareas**: Crear nuevas tareas con título y descripción.
